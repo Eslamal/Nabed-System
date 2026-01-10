@@ -2,7 +2,7 @@
 
 ![Platform](https://img.shields.io/badge/Platform-Android-green.svg) ![Language](https://img.shields.io/badge/Language-Kotlin-purple.svg) ![Architecture](https://img.shields.io/badge/Architecture-MVVM-blue.svg) ![Backend](https://img.shields.io/badge/Backend-Firebase-orange.svg)
 
-**Nabed (نبض)** is a comprehensive, multi-application ecosystem designed to digitize the entire healthcare journey. Unlike standalone apps, Nabed connects Patients, Doctors, Receptionists, Pharmacies, and Delivery drivers in a real-time, synchronized network.
+**Nabed ** is a comprehensive, multi-application ecosystem designed to digitize the entire healthcare journey. Unlike standalone apps, Nabed connects Patients, Doctors, Receptionists, Pharmacies, and Delivery drivers in a real-time, synchronized network.
 
 The system aims to streamline clinic operations, facilitate e-prescriptions, and ensure medication delivery within minutes.
 
