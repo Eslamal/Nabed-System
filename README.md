@@ -34,14 +34,17 @@ The patient app allows users to search for doctors, book appointments, receive d
 <details>
   <summary><strong>📸 Click to View Patient App Screenshots</strong></summary>
 
+## 📸 Screenshots
+
 | | | | | |
 |:---:|:---:|:---:|:---:|:---:|
-| ![Screen](NabedApp/photo_2026-01-08_13-13-39.jpg) | ![Screen](NabedApp/photo_2026-01-08_13-13-42.jpg) | ![Screen](NabedApp/photo_2026-01-08_13-13-51.jpg) | ![Screen](NabedApp/photo_2026-01-08_13-13-53.jpg) | ![Screen](NabedApp/photo_2026-01-08_13-13-54.jpg) |
-| ![Screen](NabedApp/photo_2026-01-08_13-13-55.jpg) | ![Screen](NabedApp/photo_2026-01-08_13-14-04.jpg) | ![Screen](NabedApp/photo_2026-01-08_13-14-06.jpg) | ![Screen](NabedApp/photo_2026-01-08_13-14-07.jpg) | ![Screen](NabedApp/photo_2026-01-08_13-14-08.jpg) |
-| ![Screen](NabedApp/photo_2026-01-08_13-14-09.jpg) | ![Screen](NabedApp/photo_2026-01-08_13-14-10.jpg) | ![Screen](NabedApp/photo_2026-01-08_13-14-11.jpg) | ![Screen](NabedApp/photo_2026-01-08_13-14-12.jpg) | ![Screen](NabedApp/photo_2026-01-08_13-14-13.jpg) |
-| ![Screen](NabedApp/photo_2026-01-08_13-14-14.jpg) | ![Screen](NabedApp/photo_2026-01-08_13-14-15.jpg) | ![Screen](NabedApp/photo_2026-01-08_13-14-16.jpg) | ![Screen](NabedApp/photo_2026-01-08_13-14-17.jpg) | ![Screen](NabedApp/photo_2026-01-08_13-14-18.jpg) |
-| ![Screen](NabedApp/photo_2026-01-08_13-14-19.jpg) | ![Screen](NabedApp/photo_2026-01-08_13-14-20.jpg) | ![Screen](NabedApp/photo_2026-01-08_13-14-21.jpg) | ![Screen](NabedApp/photo_2026-01-08_13-14-22.jpg) | ![Screen](NabedApp/photo_2026-01-08_13-14-23.jpg) |
-| ![Screen](NabedApp/photo_2026-01-08_13-14-24.jpg) | ![Screen](NabedApp/photo_2026-01-08_13-14-25.jpg) | ![Screen](NabedApp/photo_2026-01-08_13-14-26.jpg) | | |
+| ![Screen 1](nabed%20patient/Screenshot_20260424_164633_Nabed.jpg) | ![Screen 2](nabed%20patient/Screenshot_20260424_164637_Nabed.jpg) | ![Screen 3](nabed%20patient/Screenshot_20260424_164642_Nabed.jpg) | ![Screen 4](nabed%20patient/Screenshot_20260424_164647_Nabed.jpg) | ![Screen 5](nabed%20patient/Screenshot_20260424_164651_Nabed.jpg) |
+| ![Screen 6](nabed%20patient/Screenshot_20260424_164659_Nabed.jpg) | ![Screen 7](nabed%20patient/Screenshot_20260424_164704_Nabed.jpg) | ![Screen 8](nabed%20patient/Screenshot_20260424_164708_Nabed.jpg) | ![Screen 9](nabed%20patient/Screenshot_20260424_164735_Nabed.jpg) | ![Screen 10](nabed%20patient/Screenshot_20260424_164742_Nabed.jpg) |
+| ![Screen 11](nabed%20patient/Screenshot_20260424_164748_Nabed.jpg) | ![Screen 12](nabed%20patient/Screenshot_20260424_164752_Nabed.jpg) | ![Screen 13](nabed%20patient/Screenshot_20260424_164802_Nabed.jpg) | ![Screen 14](nabed%20patient/Screenshot_20260424_164807_Nabed.jpg) | ![Screen 15](nabed%20patient/Screenshot_20260424_164810_Nabed.jpg) |
+| ![Screen 16](nabed%20patient/Screenshot_20260424_164816_Nabed.jpg) | ![Screen 17](nabed%20patient/Screenshot_20260424_164821_Nabed.jpg) | ![Screen 18](nabed%20patient/Screenshot_20260424_164826_Nabed.jpg) | ![Screen 19](nabed%20patient/Screenshot_20260424_164830_Nabed.jpg) | ![Screen 20](nabed%20patient/Screenshot_20260424_164834_Nabed.jpg) |
+| ![Screen 21](nabed%20patient/Screenshot_20260424_164838_Nabed.jpg) | ![Screen 22](nabed%20patient/Screenshot_20260424_164853_Nabed.jpg) | ![Screen 23](nabed%20patient/Screenshot_20260424_164858_Nabed.jpg) | ![Screen 24](nabed%20patient/Screenshot_20260424_164909_Nabed.jpg) | ![Screen 25](nabed%20patient/Screenshot_20260424_164915_Nabed.jpg) |
+| ![Screen 26](nabed%20patient/Screenshot_20260424_164918_Nabed.jpg) | ![Screen 27](nabed%20patient/Screenshot_20260424_165724_Nabed.jpg) | ![Screen 28](nabed%20patient/Screenshot_20260424_165728_Nabed.jpg) | ![Screen 29](nabed%20patient/Screenshot_20260424_165740_Nabed.jpg) | |
+---
 
 </details>
 
